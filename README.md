@@ -1,7 +1,7 @@
 # 9-divisors
 Finding the number of integers with exactly 9 divisors
 
-#include stdio.in
+#include<stdio.in>
 
 int main()
 {
